@@ -1,0 +1,6 @@
+Giá trị thực của đầu ra : ground truth
+Giá trị đầu ra dự đoán : predicted output
+Hồi quy tuyến tính : linear regression
+Siêu mặt phẳng : hyperplane
+Giả nghịch đảo ( pseudo inverse )
+Tiền xử lí (pre-processing)
